@@ -16,7 +16,7 @@ The data came from Packers.com season by season player stats logs (ex: https://w
 
 Note: To keep the  Notebook file size lower and ensure easy viewability outside of Jupyter notebook, the animation player code is shown but commented out and replaced with a recorded video gif of the the animation.  
 
-Here are easy-to-view links to each Notebook file in NBViewer:
+Here are easy-to-view links to each Notebook file in NBViewer (animation plays at the bottom):
 
 Packers Passing  https://nbviewer.jupyter.org/github/amuffitt/packers_career_leaders/blob/master/Packers%20Passing%20Yards.ipynb
 
